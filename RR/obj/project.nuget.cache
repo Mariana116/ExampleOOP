@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Sfyz83L58ZWJK3JC0z3KwNYDF9jc7CH/12bRbwjOurYA5k4qaKwXuAanoV5NJtoDB3S2BQ+luxuJOBWtg1j9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MARIANA\\Desktop\\RR\\RR\\RR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MARIANA\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.1\\microsoft.netcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\MARIANA\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.1\\microsoft.windowsdesktop.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\MARIANA\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.1\\microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512",
+    "C:\\Users\\MARIANA\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.1\\microsoft.netcore.app.host.win-x64.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

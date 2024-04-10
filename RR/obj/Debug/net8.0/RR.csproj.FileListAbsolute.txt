@@ -1,0 +1,14 @@
+C:\Users\ESTUDIANTES\Desktop\RR\bin\Debug\net8.0\RR.exe
+C:\Users\ESTUDIANTES\Desktop\RR\bin\Debug\net8.0\RR.deps.json
+C:\Users\ESTUDIANTES\Desktop\RR\bin\Debug\net8.0\RR.runtimeconfig.json
+C:\Users\ESTUDIANTES\Desktop\RR\bin\Debug\net8.0\RR.dll
+C:\Users\ESTUDIANTES\Desktop\RR\bin\Debug\net8.0\RR.pdb
+C:\Users\ESTUDIANTES\Desktop\RR\obj\Debug\net8.0\RR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESTUDIANTES\Desktop\RR\obj\Debug\net8.0\RR.AssemblyInfoInputs.cache
+C:\Users\ESTUDIANTES\Desktop\RR\obj\Debug\net8.0\RR.AssemblyInfo.cs
+C:\Users\ESTUDIANTES\Desktop\RR\obj\Debug\net8.0\RR.csproj.CoreCompileInputs.cache
+C:\Users\ESTUDIANTES\Desktop\RR\obj\Debug\net8.0\RR.dll
+C:\Users\ESTUDIANTES\Desktop\RR\obj\Debug\net8.0\refint\RR.dll
+C:\Users\ESTUDIANTES\Desktop\RR\obj\Debug\net8.0\RR.pdb
+C:\Users\ESTUDIANTES\Desktop\RR\obj\Debug\net8.0\RR.genruntimeconfig.cache
+C:\Users\ESTUDIANTES\Desktop\RR\obj\Debug\net8.0\ref\RR.dll
